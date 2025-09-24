@@ -4,15 +4,15 @@
 
 - AI生成的图标
 
-<img src="./entry/src/main/resources/md/image-20250924153343202.png" alt="image-20250924153343202"  />
+<img src="./entry/src/main/resources/rawfile/image-20250924153343202.png" alt="image-20250924153343202"  />
 
 - 应用底部导航栏
 
-<img src="./entry/src/main/resources/md/image-20250924153504337.png" alt="image-20250924153504337"  />
+<img src="./entry/src/main/resources/rawfile/image-20250924153504337.png" alt="image-20250924153504337"  />
 
 - 内容页简单标题
 
-<img src="./entry/src/main/resources/md/image-20250924153623597.png" alt="image-20250924153623597"  />
+<img src="./entry/src/main/resources/rawfile/image-20250924153623597.png" alt="image-20250924153623597"  />
 
 ## 2.项目结构
 
@@ -67,8 +67,8 @@ entry
 
 先在 `pages/heart` 文件夹中新建页面 `HeartContentPage02.ets`，确认在 `resources/base/profile/main_pages.json`文件中确实有该页
 
-<img src="./entry/src/main/resources/md/image-20250924160032643.png" alt="image-20250924160032643"  />
+<img src="./entry/src/main/resources/rawfile/image-20250924160032643.png" alt="image-20250924160032643"  />
 
 接着，在 `pages/HeartPage` 中，配置组件项即可
-![image-20250924160242638](./entry/src/main/resources/md/image-20250924160242638.png)
+![image-20250924160242638](./entry/src/main/resources/rawfile/image-20250924160242638.png)
 
